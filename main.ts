@@ -157,5 +157,5 @@ let ZOMBIE = sprites.create(img`
     . . . f 6 9 9 9 8 8 9 f . . . . 
     . . . . f f f f f f f . . . . . 
     . . . . . f f . f f . . . . . . 
-    `, SpriteKind.Player)
+    `, SpriteKind.Enemy)
 ZOMBIE.setPosition(120, 70)
