@@ -2,7 +2,8 @@
     "name": "ZOMBIE BUSTER Game",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "ZOMBIE BUSTER Game": "github:khanifra261/zombie-buster-game#7ca1ce947759e4db15b831b0b6b83a4b36e78585"
     },
     "files": [
         "main.blocks",
